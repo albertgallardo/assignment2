@@ -1,3 +1,4 @@
 # assignment2
 
-See wiki
+See wiki  
+https://github.com/albertgallardo/assignment2/wiki/Assignment-2
